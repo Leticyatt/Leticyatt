@@ -5,7 +5,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e apaixonada por c
 ### O que estou fazendo agora:
 -  Cursando Análise e Desenvolvimento de Sistemas.
 -  Aprimorando constantemente minhas habilidades no ecossistema React e na construção de UIs responsivas.
--  Aberta a conexões e oportunidades na área de tecnologia em **Pernambuco** (com foco no ecossistema do Porto Digital).
+-  Aberta a conexões e oportunidades na área de tecnologia.
 
 ### Tecnologias e Ferramentas:
 <div style="display: inline_block"><br>
