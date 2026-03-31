@@ -18,7 +18,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e apaixonada por c
 
 <br>
 
-### 📫 Como me encontrar:
-- 📧 E-mail: **diasleticya13@hotmail.com**
+### Como me encontrar:
+- E-mail: **diasleticya13@hotmail.com**
 
  *De estudante para desenvolvedora.*
